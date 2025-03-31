@@ -3,21 +3,10 @@
 ## Overview
 This project demonstrates the simulation and display of an image, along with generating its negative in both **binary** and **grayscale** formats using OpenCV.
 
-## Features
+## Objective
 - Load and display an image in **color** and **grayscale**.
 - Compute the **negative** of an image in both color and grayscale.
 - Display the results using OpenCV.
-
-## Requirements
-Make sure you have the following installed before running the code:
-- Python (3.x recommended)
-- OpenCV (`cv2` module)
-
-### Installation
-To install OpenCV, run the following command:
-```bash
-pip install opencv-python
-```
 
 ## How It Works
 1. **Load Image**: The image is loaded using `cv2.imread()` in both **color** and **grayscale** modes.
